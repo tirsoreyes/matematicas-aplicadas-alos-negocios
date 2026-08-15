@@ -509,11 +509,11 @@ Calcular:
 
 Preguntar:
 
-1.  ¿Qué diferencia hay entre capital e interés?
-2.  ¿Qué diferencia hay entre interés y monto?
-3.  ¿Qué significa valor presente?
+1.  ¿Qué diferencia hay entre capital e interés? capital es la cantidad original (prestas o pides prestado), interes es el costo por pedir ese dinero
+2.  ¿Qué diferencia hay entre interés y monto? interes es solo la cantidad que pagas de mas y el monto es to total final
+3.  ¿Qué significa valor presente? cuanto vale hoy una cantidad que vas a recibir en el futuro descontando cierta tasa (cuanto valen 20, 000 que recibire en 3 meses hoy)
 4.  ¿Por qué debemos convertir 8% en 0.08?
-5.  ¿Por qué deben coincidir las unidades de tasa y tiempo?
+5.  ¿Por qué deben coincidir las unidades de tasa y tiempo? porque si no los calculos no cuadran, sil a taza es anual el tiempo debe ser años
 
 ### Idea final para el alumno
 
